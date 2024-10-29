@@ -1,5 +1,7 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
+## NAME:VISHNU KM
+## REG NO:212223240185
 
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
